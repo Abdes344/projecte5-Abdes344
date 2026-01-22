@@ -61,7 +61,7 @@ Just despres farem primer un cd C:\Users\Abdes\downloads i despres un " .\PSRans
 I al tronar a documents veurem que els documents que hem creat abans estaran amb format .psr
 
 ![imatge](/Tasca08/IMG/15.png.png)
-
+Ara farem un " .\PSRansom.ps1 -d C:\Users\Abdes\documents -k IpnXV0ilg0bF8TrdiaJHL7Nh" amb el codig que ens ha donat el readme de abans
 
 ![imatge](/Tasca08/IMG/16.png.png)
 
