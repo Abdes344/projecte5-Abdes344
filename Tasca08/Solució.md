@@ -64,6 +64,20 @@ I al tronar a documents veurem que els documents que hem creat abans estaran amb
 Ara farem un " .\PSRansom.ps1 -d C:\Users\Abdes\documents -k IpnXV0ilg0bF8TrdiaJHL7Nh" amb el codig que ens ha donat el readme de abans
 
 ![imatge](/Tasca08/IMG/16.png.png)
+Ara tornem a entrar a documents i veiem que els nostres documents no estan xifrats despres de posar la nostre clau 
+
+ATACS DE RANSOMWARE: WANNACRY 
+
+1- Expliqueu quins són els factors que fan que WannaCry es propagui tan ràpid. Expliqueu què vol dir. 
+
+2- Quina vulnerabilitat en concret es fa servir? Busqueu el CVE associat. És molt greu? 
+
+3- S'ha de pagar el rescat demanat? Per què? Busqueu per internet a veure si trobeu alguna empresa negociadora de rescats i com funciona. Això s'està fent, tot i que no se sol recomanar... 
+
+4- Quines mesures podem aplicar si volem PREVENIR un atac de Ransomware abans que passi?
+
+ 5- Quines mesures aplicarem si JA HEM SOFERT un atac de WannaCry i no hem aplicat les mesures de prevenció o ho hem fet parcialment?
+
 
 
 ![imatge](/Tasca08/IMG/17.png.png)
