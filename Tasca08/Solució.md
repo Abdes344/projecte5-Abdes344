@@ -120,25 +120,25 @@ Ara tornem a entrar a documents i veiem que els nostres documents no estan xifra
 
 ---
 
-ATACS DE RANSOMWARE: WANNACRY 
+# ATACS DE RANSOMWARE: WANNACRY 
 
-1- Expliqueu quins són els factors que fan que WannaCry es propagui tan ràpid. Expliqueu què vol dir. 
+## 1- Expliqueu quins són els factors que fan que WannaCry es propagui tan ràpid. Expliqueu què vol dir. 
 
 WannaCry es va propagar molt ràpid perquè actua com un cuc: es copia automàticament d’un ordinador a un altre sense que l’usuari faci res. Aprofita sistemes Windows sense actualitzar i es mou per la xarxa explotant aquesta debilitat, cosa que permet infectar molts equips en molt poc temps.
 
-2- Quina vulnerabilitat en concret es fa servir? Busqueu el CVE associat. És molt greu? 
+## 2- Quina vulnerabilitat en concret es fa servir? Busqueu el CVE associat. És molt greu? 
 
 La vulnerabilitat utilitzada és CVE-2017-0144, relacionada amb el protocol SMBv1 de Windows (exploit EternalBlue). És una vulnerabilitat crítica, ja que permet executar codi de manera remota sense permisos de l’usuari.
 
-3- S'ha de pagar el rescat demanat? Per què? Busqueu per internet a veure si trobeu alguna empresa negociadora de rescats i com funciona. Això s'està fent, tot i que no se sol recomanar...
+## 3- S'ha de pagar el rescat demanat? Per què? Busqueu per internet a veure si trobeu alguna empresa negociadora de rescats i com funciona. Això s'està fent, tot i que no se sol recomanar...
 
 No es recomana pagar el rescat perquè no assegura la recuperació de les dades i finança el cibercrim. Existeixen empreses que negocien amb els atacants en casos extrems, analitzant l’atac i actuant com a intermediàries, tot i que aquesta pràctica no és aconsellable.
 
-4- Quines mesures podem aplicar si volem PREVENIR un atac de Ransomware abans que passi?
+## 4- Quines mesures podem aplicar si volem PREVENIR un atac de Ransomware abans que passi?
 
 Per prevenir ransomware cal mantenir els sistemes actualitzats, fer còpies de seguretat periòdiques, utilitzar antivirus, desactivar SMBv1, limitar permisos i formar els usuaris.
 
- 5- Quines mesures aplicarem si JA HEM SOFERT un atac de WannaCry i no hem aplicat les mesures de prevenció o ho hem fet parcialment?
+## 5- Quines mesures aplicarem si JA HEM SOFERT un atac de WannaCry i no hem aplicat les mesures de prevenció o ho hem fet parcialment?
 
 Si ja s’ha patit un atac, cal aïllar els equips infectats, no pagar el rescat, restaurar les dades des de còpies de seguretat, aplicar els pegats de seguretat i revisar la protecció del sistema.
 
