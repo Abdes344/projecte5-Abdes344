@@ -32,17 +32,18 @@ Despres anirem a instalar el WinRAR
 ![imatge](/Tasca08/IMG/9.png.png)
 Aqui li donarem a instalar perque s'instali correctament
 
-SISTEMES DE PROTECCIÓ DE WINDOWS 11
 
-Quines proteccions incorporar Windows 11 a la seccció de "Protección antivirus y contra amenazas"? 
+# SISTEMES DE PROTECCIÓ DE WINDOWS 11
+
+## Quines proteccions incorporar Windows 11 a la seccció de "Protección antivirus y contra amenazas"? 
+Inclou Microsoft Defender Antivirus, protecció en temps real, protecció basada en el núvol, protecció contra manipulacions i opcions d’anàlisi del sistema.
+
+## Quines opcions tenim a "Control de aplicaciones y navegador"?
+Ofereix SmartScreen per bloquejar webs i programes perillosos, protecció basada en la reputació de les aplicacions, control de descàrregues i millores de seguretat per al navegador Microsoft Edge.
 
 
-
-Quines opcions tenim a "Control de aplicaciones y navegador"?
-
-
-
- Investigueu quines opcions específiques hi ha per la protecció contra ransomware a Windows 11. 
+## Investigueu quines opcions específiques hi ha per la protecció contra ransomware a Windows 11. 
+Inclou l’accés controlat a carpetes per evitar canvis no autoritzats, el bloqueig d’aplicacions sospitoses, la protecció dels fitxers personals i la possibilitat de fer còpies de seguretat amb OneDrive.
 
 
 ![imatge](/Tasca08/IMG/10.png.png)
