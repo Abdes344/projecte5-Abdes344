@@ -124,13 +124,23 @@ ATACS DE RANSOMWARE: WANNACRY
 
 1- Expliqueu quins són els factors que fan que WannaCry es propagui tan ràpid. Expliqueu què vol dir. 
 
+WannaCry se propagó muy rápido porque actúa como un gusano: se copia automáticamente de un ordenador a otro sin que el usuario haga nada. Aprovecha sistemas Windows sin actualizar y se mueve por la red explotando esa debilidad, lo que permite que infecte muchos equipos en muy poco tiempo.
+
 2- Quina vulnerabilitat en concret es fa servir? Busqueu el CVE associat. És molt greu? 
+
+La vulnerabilidad utilizada es CVE-2017-0144, relacionada con el protocolo SMBv1 de Windows (exploit EternalBlue). Es una vulnerabilidad crítica, ya que permite ejecutar código de forma remota sin permisos del usuario.
 
 3- S'ha de pagar el rescat demanat? Per què? Busqueu per internet a veure si trobeu alguna empresa negociadora de rescats i com funciona. Això s'està fent, tot i que no se sol recomanar... 
 
+No se recomienda pagar el rescate porque no asegura la recuperación de los datos y financia el cibercrimen. Existen empresas que negocian con los atacantes en casos extremos, analizando el ataque y actuando como intermediarias, aunque esta práctica no es aconsejada.
+
 4- Quines mesures podem aplicar si volem PREVENIR un atac de Ransomware abans que passi?
 
+Para prevenir ransomware hay que mantener los sistemas actualizados, hacer copias de seguridad periódicas, usar antivirus, desactivar SMBv1, limitar permisos y formar a los usuarios.
+
  5- Quines mesures aplicarem si JA HEM SOFERT un atac de WannaCry i no hem aplicat les mesures de prevenció o ho hem fet parcialment?
+
+ Si ya se ha sufrido un ataque, se deben aislar los equipos infectados, no pagar el rescate, restaurar los datos desde copias de seguridad, aplicar parches de seguridad y revisar la protección del sistema.
 
 
 ---
