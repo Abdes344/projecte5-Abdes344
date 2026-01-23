@@ -44,3 +44,25 @@ projecte5/
 - [Guia GitHub Classroom](https://github.com/SMX2n/guia-github-classroom)
 
 Bona sort! 🚀
+
+
+
+# TASQUES I PRODUCTES
+
+| Tasques                                                  | Productes                                                   |
+|----------------------------------------------------------|-------------------------------------------------------------|
+| 📁 [T01](Tasca01)                                       | 📦 [P01](P01)                                               |
+| 📁 [T02](Tasca02)                                       | 📦 [P02](P02)                                               |
+| 📁 [T03](Tasca03)                                       | 📦 [P03](P03)                                               |
+| 📁 [T04](Tasca04)                                       |                                                             |
+| 📁 [T05](Tasca05)                                       |                                                             |
+| 📁 [T06](Tasca06)                                       |                                                             |
+| 📁 [T07](Tasca07)                                       |                                                             |
+| 📁 [T08](Tasca08)                                       |                                                             |
+| 📁 [T09](Tasca09)                                       |                                                             |
+| 📁 [T10](Tasca10)                                       |                                                             |
+| 📁 [T11](Tasca11)                                       |                                                             |
+| 📁 [T12](Tasca12)                                       |                                                             |
+| 📁 [T13](Tasca13)                                       |                                                             |
+| 📁 [T14](Tasca14)                                       |                                                             |
+| 📁 [T15](Tasca15)                                       |                                                             |
