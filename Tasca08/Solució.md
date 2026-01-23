@@ -67,7 +67,7 @@ Aqui li donarem a instalar perque s'instali correctament
 Inclou Microsoft Defender Antivirus, protecció en temps real, protecció basada en el núvol, protecció contra manipulacions i opcions d’anàlisi del sistema.
 
 ## Quines opcions tenim a "Control de aplicaciones y navegador"?
-Ofereix SmartScreen per bloquejar webs i programes perillosos, protecció basada en la reputació de les aplicacions, control de descàrregues i millores de seguretat per al navegador Microsoft Edge.
+Ofereix SmartScreen per bloquejar webs i programes perillosos, protecció basada en la reputació de les aplicacions, control de descarregues i millores de seguretat per al navegador Microsoft Edge.
 
 
 ## Investigueu quines opcions específiques hi ha per la protecció contra ransomware a Windows 11. 
@@ -124,23 +124,23 @@ ATACS DE RANSOMWARE: WANNACRY
 
 1- Expliqueu quins són els factors que fan que WannaCry es propagui tan ràpid. Expliqueu què vol dir. 
 
-WannaCry se propagó muy rápido porque actúa como un gusano: se copia automáticamente de un ordenador a otro sin que el usuario haga nada. Aprovecha sistemas Windows sin actualizar y se mueve por la red explotando esa debilidad, lo que permite que infecte muchos equipos en muy poco tiempo.
+WannaCry es va propagar molt ràpid perquè actua com un cuc: es copia automàticament d’un ordinador a un altre sense que l’usuari faci res. Aprofita sistemes Windows sense actualitzar i es mou per la xarxa explotant aquesta debilitat, cosa que permet infectar molts equips en molt poc temps.
 
 2- Quina vulnerabilitat en concret es fa servir? Busqueu el CVE associat. És molt greu? 
 
-La vulnerabilidad utilizada es CVE-2017-0144, relacionada con el protocolo SMBv1 de Windows (exploit EternalBlue). Es una vulnerabilidad crítica, ya que permite ejecutar código de forma remota sin permisos del usuario.
+La vulnerabilitat utilitzada és CVE-2017-0144, relacionada amb el protocol SMBv1 de Windows (exploit EternalBlue). És una vulnerabilitat crítica, ja que permet executar codi de manera remota sense permisos de l’usuari.
 
-3- S'ha de pagar el rescat demanat? Per què? Busqueu per internet a veure si trobeu alguna empresa negociadora de rescats i com funciona. Això s'està fent, tot i que no se sol recomanar... 
+3- S'ha de pagar el rescat demanat? Per què? Busqueu per internet a veure si trobeu alguna empresa negociadora de rescats i com funciona. Això s'està fent, tot i que no se sol recomanar...
 
-No se recomienda pagar el rescate porque no asegura la recuperación de los datos y financia el cibercrimen. Existen empresas que negocian con los atacantes en casos extremos, analizando el ataque y actuando como intermediarias, aunque esta práctica no es aconsejada.
+No es recomana pagar el rescat perquè no assegura la recuperació de les dades i finança el cibercrim. Existeixen empreses que negocien amb els atacants en casos extrems, analitzant l’atac i actuant com a intermediàries, tot i que aquesta pràctica no és aconsellable.
 
 4- Quines mesures podem aplicar si volem PREVENIR un atac de Ransomware abans que passi?
 
-Para prevenir ransomware hay que mantener los sistemas actualizados, hacer copias de seguridad periódicas, usar antivirus, desactivar SMBv1, limitar permisos y formar a los usuarios.
+Per prevenir ransomware cal mantenir els sistemes actualitzats, fer còpies de seguretat periòdiques, utilitzar antivirus, desactivar SMBv1, limitar permisos i formar els usuaris.
 
  5- Quines mesures aplicarem si JA HEM SOFERT un atac de WannaCry i no hem aplicat les mesures de prevenció o ho hem fet parcialment?
 
- Si ya se ha sufrido un ataque, se deben aislar los equipos infectados, no pagar el rescate, restaurar los datos desde copias de seguridad, aplicar parches de seguridad y revisar la protección del sistema.
+Si ja s’ha patit un atac, cal aïllar els equips infectats, no pagar el rescat, restaurar les dades des de còpies de seguretat, aplicar els pegats de seguretat i revisar la protecció del sistema.
 
 
 ---
