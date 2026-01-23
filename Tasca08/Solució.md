@@ -83,9 +83,12 @@ ATACS DE RANSOMWARE: WANNACRY
 
 ![imatge](/Tasca08/IMG/17.png.png)
 
+Ara a dins de la maquina anirem a les opcions de adalt i li donarem click a la que diu "Màquina" i li donarem a "fes una instantània"
+
 
 ![imatge](/Tasca08/IMG/18.png.png)
 
+A la instantània li ficarem de nom "abans del virus"
 
 ![imatge](/Tasca08/IMG/19.png.png)
 
