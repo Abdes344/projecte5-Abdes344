@@ -8,7 +8,7 @@ info
 
 ---
 
-![imatge](/IMG/2.png)
+![imatge](IMG/2.png)
 
 info
 
@@ -152,7 +152,7 @@ info
 
 ---
 
-![imatge](Tasca09/IMG/26.png)
+![imatge](IMG/26.png)
 
 info
 
