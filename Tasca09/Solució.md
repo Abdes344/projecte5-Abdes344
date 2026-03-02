@@ -59,6 +59,8 @@ I aqui ens avisara de que el usuari ja se ha creat correctament
 ![imatge](IMG/10.png)
 
 Aqui ens demanara una clau de subscripció i nosaltres li donarem a skip perque no hen tenim cap
+
+
 ---
 
 ![imatge](IMG/11.png)
