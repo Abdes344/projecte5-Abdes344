@@ -135,56 +135,64 @@ Despres de fer tot ja tancarem la sesió ja que tot esta fet correcte
 
 ![imatge](IMG/23.png)
 
-info
+Ara anirem a google i al buscador buscarem https://192.168.56.103 que es la ip que ens han donat anteriorment i iniciarem sesió 
 
 ---
 
 ![imatge](IMG/24.png)
 
-info
+Un cop dins anirem a la opció de "assets" i dins i ha una opció que es la de hosts i anirem a aquella opció
 
 ---
 
 ![imatge](IMG/25.png)
 
-info
+Al entrar a hosts farem una nova host i ficarem la ip que ens han donat a la maquina virtual anteriror la de metasploitable
 
 ---
 
 ![imatge](IMG/26.png)
 
-info
+Ara farem una nova target i de nom li ficarem un nom en el meu cas li he ficat vulnerable linux i guardarem 
 
 ---
 
 ![imatge](IMG/27.png)
 
-info
+Aqui ficarem la primera opció que diu "use scan config default" i a on fica SMB ficarem "mfsadmin" i guardarem 
 
 ---
 
 ![imatge](IMG/28.png)
 
-info
+Ara farem una nova tasca ficarem un nom el que vulguis en el meu cas Vulnerable linux i on fica "scan targets" triarem la target creada anteriorment
 
 ---
 
 ![imatge](IMG/29.png)
+
+Aqui veiem que la tasca ja esta en proces
 
 ---
 
 
 ![imatge](IMG/30.png)
 
+Ara veiem que la tasca ja ha acabat
+
 
 ---
 
 ![imatge](IMG/31.png)
 
+Aqui veiem els resultats de la tasca 
+
 ---
 
 
 ![imatge](IMG/32.png)
+
+I aqui veiem tots els ports de la nostre tasca 
 
 ---
 
