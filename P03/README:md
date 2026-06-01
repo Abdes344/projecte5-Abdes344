@@ -2,335 +2,211 @@
 
 ## 📖 Breu descripció
 
-En aquest projecte haureu de presentar la vostra empresa tecnològica desenvolupada dins del projecte **La Incubadora**. L'objectiu és demostrar no només els coneixements tècnics adquirits, sinó també la capacitat de comunicar una proposta empresarial real, viable i sostenible.
+Aquesta activitat consisteix en la preparació, assaig i presentació d’una **empresa tecnològica amb enfocament Green IT**, davant del professorat i del grup classe.
 
-La presentació haurà de mostrar com la vostra empresa resol problemes reals dels clients mitjançant solucions IT modernes, incorporant criteris de **Green IT** i sostenibilitat tecnològica.
-
----
-
-# 🎯 Objectius específics de la tasca
-
-La tasca es divideix en **tres parts principals**:
-
-## 1️⃣ Guió de la presentació
-
-Preparar un discurs estructurat que expliqui el projecte de forma clara, coherent i professional.
-
-## 2️⃣ Suport visual
-
-Crear el material que acompanyarà la presentació oral.
-
-## 3️⃣ Assaig i evidència
-
-Realitzar una pràctica prèvia de la presentació i aportar una evidència en format àudio o vídeo.
+El projecte simula una presentació professional real, on no només es valora el contingut tècnic, sinó també la capacitat de comunicació, coherència i defensa del projecte.
 
 ---
 
-# 💻 Format i suport de la presentació
+# 🎯 Objectius de la tasca
 
-El format és lliure, però **no es pot improvisar**.
+* 🎤 Preparar un discurs estructurat i professional.
+* 🖥️ Crear un suport visual coherent amb la presentació.
+* 🌱 Integrar criteris de sostenibilitat (Green IT).
+* 🧠 Argumentar decisions tècniques i empresarials.
+* 📹 Realitzar un assaig amb evidència (àudio o vídeo).
 
-Cal demostrar que la presentació ha estat preparada prèviament tant en el discurs com en el material visual.
+---
 
-### Possibles formats
+# 🧩 FORMAT I SUPORT DE LA PRESENTACIÓ
+
+El format és lliure, però ha de complir requisits professionals:
+
+* Ha d’estar preparat prèviament (no improvisació).
+* Ha de tenir estructura clara i ordre lògic.
+* Ha d’acompanyar el discurs (no llegir diapositives).
+* Ha de ser coherent i visualment entenedor.
+
+---
+
+## 🛠️ Eines recomanades
 
 * 📊 Google Slides
 * 🎨 Canva
 * ⚡ Gamma.app
 * 🌐 Google Sites
-* 📄 Google Docs
-* 🔀 Format híbrid (combinació de diversos recursos)
-
-### Requisits obligatoris
-
-✅ Estructura clara
-
-✅ Ordre i coherència
-
-✅ Suport visual que complementi l'explicació
-
-✅ No llegir literalment el contingut
-
-✅ Aspecte professional
+* 📄 Google Docs (format estructurat)
+* 🔀 Format híbrid (combinació de diversos suports)
 
 ---
 
-# 📝 Guió de la presentació
+# 🧭 GUIÓ DE PRESENTACIÓ
 
-## 1. 💡 D'on surt la idea?
+## 1️⃣ D’on surt la idea (Design Thinking)
 
-Expliqueu l'origen del projecte.
+* Procés de creativitat i ideació.
+* Fase d’empatia amb el client.
+* Identificació de problemes reals.
+* Selecció d’una solució viable.
 
-### Aspectes a comentar
-
-* Procés de Design Thinking.
-* Fase d'empatia amb el client.
-* Problemes detectats.
-* Idees generades.
-* Solució seleccionada.
-
-### Consell
-
-No expliqueu teoria. Expliqueu com vau arribar a la idea final i per què és la millor opció.
+👉 Important: no explicar teoria, sinó decisions preses.
 
 ---
 
-## 2. 🏢 Presentació de l'empresa
+## 2️⃣ Presentació de l’empresa
 
-Presentació general de l'empresa.
+* Nom de l’empresa.
+* Tipus de client B2B.
+* Problema que resol.
 
-### Cal indicar
-
-* Nom de l'empresa.
-* Tipus de clients (B2B).
-* Problema principal que resol.
-
-### Consell
-
-Després d'escoltar-vos, qualsevol persona hauria de poder explicar què fa la vostra empresa en una sola frase.
+👉 Ha de poder resumir-se en una frase clara.
 
 ---
 
-## 3. 🎯 El problema i el context del client
-
-Demostreu que enteneu les necessitats reals del client.
-
-### Explicar
+## 3️⃣ Problema i context del client
 
 * Qui és el client.
-* Entorn de treball.
-* Problema actual.
-* Conseqüències del problema.
+* Quin entorn té.
+* Quin problema presenta.
+* Conseqüències de no resoldre’l:
 
-### Exemple
-
-* Temps perdut.
-* Costos elevats.
-* Baixa productivitat.
-* Problemes de seguretat.
+  * 💸 pèrdua econòmica
+  * ⏱️ ineficiència
+  * ⚠️ riscos operatius
 
 ---
 
-## 4. 🔧 Visió global de la solució
+## 4️⃣ Visió global de la solució
 
-Explicació general del servei ofert.
+* Solució integrada (IT + infraestructura + web + sistemes).
+* Relació entre totes les parts.
+* Valor global per al client.
 
-### Mostrar
-
-* Solució integrada.
-* Infraestructura física.
-* Xarxa i sistemes.
-* Presència digital.
-* Serveis IT.
-
-### Consell
-
-Expliqueu el valor que aporta la combinació de tots aquests elements.
+👉 No és una llista de tecnologies, sinó una solució coherent.
 
 ---
 
-## 5. 🏢 Infraestructura física: el local
+## 5️⃣ Infraestructura física (local)
 
-Presentació de l'espai de treball.
+* Ubicació del local.
+* Justificació de l’espai.
+* Cost estimat.
+* Distribució de zones:
 
-### Explicar
+  * treball
+  * reunions
+  * servidor / IT
 
-* Ubicació.
-* Cost.
-* Distribució.
-* Funció de cada espai.
-
-### Mostrar
-
-* Plànol 2D.
-* Model 3D.
-* Zones de treball.
-
-### Consell
-
-Relacionar cada espai amb una activitat professional concreta.
+👉 Relació entre espai i funció professional.
 
 ---
 
-## 6. 🎨 Identitat corporativa
+## 6️⃣ Identitat corporativa
 
-Presentació de la marca.
+* Missatge de marca.
+* Tipus de client al qual s’adreça.
+* Adequació al sector IT B2B.
 
-### Explicar
-
-* Logotip.
-* Colors corporatius.
-* Valors que transmet.
-* Públic objectiu.
-
-### Consell
-
-La identitat visual ha de reforçar la confiança i la professionalitat.
+👉 La marca comunica professionalitat, no decoració.
 
 ---
 
-## 7. 🌐 Disseny tècnic del local i de la xarxa
+## 7️⃣ Disseny tècnic del local i xarxa
 
-Una de les parts més importants del projecte.
-
-### Local
-
-* Distribució dels espais.
-* Ubicació dels equips.
-
-### Xarxa
-
-* Diagrama de xarxa.
+* Distribució d’espais.
+* Disseny de la xarxa.
 * Connexió a Internet.
-* Dispositius utilitzats.
-* Configuracions realitzades.
+* Justificació tècnica.
 
-### Consell
-
-Expliqueu el funcionament de la xarxa amb naturalitat i criteri tècnic.
+👉 Demostrar comprensió real del sistema.
 
 ---
 
-## 8. 💰 Pressupost tècnic
+## 8️⃣ Pressupost tècnic
 
-Presentació dels costos del projecte.
+* Equipament utilitzat.
+* Justificació de cada decisió.
+* Costos inicials i recurrents.
+* Impacte econòmic global.
 
-### Incloure
-
-* Ordinadors.
-* Servidors.
-* Xarxa.
-* Llicències.
-* Mobiliari.
-
-### Diferenciar
-
-#### Costos inicials
-
-* Compra d'equipament.
-
-#### Costos recurrents
-
-* Internet.
-* Hosting.
-* Subscripcions.
-* Manteniment.
-
-### Consell
-
-Justifiqueu sempre les decisions tècniques.
+👉 Decisions basades en criteris tècnics, no només preu.
 
 ---
 
-## 9. 🌍 Presència digital
+## 9️⃣ Presència digital
 
-La web és una eina de negoci.
+* Objectiu del web.
+* Experiència d’usuari.
+* Navegació del client.
+* CTA (crides a l’acció).
 
-### Explicar
-
-* Estructura del lloc web.
-* Navegació.
-* Contingut principal.
-* Crides a l'acció (CTA).
-
-### Mostrar
-
-* Wireframes.
-* Maquetes.
-* Disseny final.
-
-### Consell
-
-La web ha de ser clara, senzilla i orientada a captar clients.
+👉 El web com a eina de negoci.
 
 ---
 
-## 10. 🌱 Sostenibilitat i Green IT
+## 🔟 Sostenibilitat i Green IT
 
-La sostenibilitat forma part de la proposta de valor de l'empresa.
+* Reducció del consum energètic.
+* Virtualització de serveis.
+* Optimització d’infraestructura.
+* Reducció de residus tecnològics.
 
-### Serveis Green IT
-
-* 🔋 Reducció del consum energètic.
-* ♻️ Reutilització d'equipament.
-* 🖥️ Virtualització de servidors.
-* ☁️ Centralització de serveis.
-* 🗑️ Reducció de residus electrònics.
-
-### Decisions sostenibles del projecte
-
-* Equips eficients energèticament.
-* Virtualització.
-* Infraestructures optimitzades.
-* Bones pràctiques de manteniment.
-
-### Consell
-
-Parleu de mesures concretes, no de sostenibilitat en general.
+👉 Aplicació real, no teoria.
 
 ---
 
-## 11. 📈 Viabilitat del projecte
+## 1️⃣1️⃣ Viabilitat del projecte
 
-Explicar per què l'empresa podria funcionar realment.
-
-### Mostrar
-
-* Tipus de clients.
-* Serveis principals.
-* Fonts d'ingressos.
+* Tipus de clients potencials.
+* Fonts d’ingressos.
 * Costos principals.
-* Possibilitats de creixement.
+* Sostenibilitat del negoci.
 
-### Consell
-
-Demostreu sentit comú empresarial.
+👉 Ha de demostrar sentit empresarial.
 
 ---
 
-# 🎤 Assaig i evidència
+# 🎥 ASSAIG I EVIDÈNCIA
 
-Abans de la presentació final és obligatori realitzar un assaig.
+Abans de la presentació final s’ha de realitzar un assaig obligatori.
 
-## Objectius
+## 📌 Objectius de l’assaig
 
-* Preparar el suport visual.
-* Practicar el discurs.
+* Preparar el discurs.
+* Provar el suport visual.
 * Detectar errors.
-* Millorar l'exposició.
+* Millorar la fluïdesa.
 
 ---
 
-## 📹 Evidència requerida
+## 📎 Evidències acceptades
 
-Cal lliurar una prova que demostri la realització de l'assaig.
-
-### Formats acceptats
-
-* 🎥 Vídeo amb el mòbil.
+* 🎥 Vídeo enregistrat.
 * 🎙️ Àudio.
-* 💻 Screencast.
+* 💻 Screencast amb veu.
 
 ---
 
-## ⚠️ Important
+## ⚠️ Condicions
 
-No cal editar el contingut.
+* No cal edició.
+* Es permeten errors i pauses.
+* Ha de ser real i no preparat de forma artificial.
 
-Es permet:
-
-* Errors.
-* Dubtes.
-* Preses falses.
-* Correccions espontànies.
-
-L'objectiu és demostrar preparació i actitud professional.
+👉 L’objectiu és demostrar preparació, no perfecció.
 
 ---
 
-# ✅ Conclusions
+# 🏁 Conclusió
 
-Aquest projecte té com a finalitat demostrar la capacitat de crear, justificar i presentar una empresa tecnològica realista, combinant aspectes tècnics, empresarials i de sostenibilitat.
+Aquesta activitat simula una **presentació professional real d’una empresa tecnològica amb criteris de sostenibilitat**.
 
-La presentació ha de transmetre professionalitat, criteri tècnic i una clara orientació al client, incorporant els principis de **Green IT** com a valor diferencial de la proposta.
+Es valora especialment:
 
+* Claredat comunicativa
+* Coherència del projecte
+* Justificació tècnica
+* Visió empresarial
+* Integració del Green IT
+
+👉 L’objectiu final és demostrar capacitat per defensar un projecte davant d’un client real amb criteri i seguretat.
